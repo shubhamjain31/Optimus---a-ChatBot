@@ -1,1 +1,7 @@
+# Environments
 venv_chatbot/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+data.pth
