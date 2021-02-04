@@ -32,9 +32,8 @@ def bag_of_words(tokenized_sentence, all_words):
     """
     # stem each word
     sentence_words = [stem(word) for word in tokenized_sentence]
-    print(sentence_words)
     # initialize bag with 0 for each word
-    bag = np.zeros(len(words), dtype=np.float32)
+    bag = np.zeros(len(all_words), dtype=np.float32)
     for idx, w in enumerate(all_words):
         if w in sentence_words: 
             bag[idx] = 1.0
