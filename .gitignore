@@ -5,3 +5,4 @@ venv_chatbot/
 __pycache__
 
 data.pth
+chat.py
