@@ -60,4 +60,5 @@ Have a look at intents.json. You can customize it according to your own use case
 ## Tools
 - Python
 - Pytorch
+- NLP
 - CSV
