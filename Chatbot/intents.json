@@ -79,6 +79,44 @@
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
       ]
+    },
+    {
+      "tag": "abuse",
+      "patterns": [
+        "What the fuck!",
+        "Ohh Shit",
+        "You Bastard.."
+      ],
+      "responses": [
+        "What happened Sir",
+        "you are using abusing language",
+        "Sssshhhhhh"
+      ]
+    },
+    {
+      "tag": "optimus",
+      "patterns": [
+        "Who are you?",
+        "Your Introduction Please..",
+        "Tell me about yourself",
+        "Your name"
+      ],
+      "responses": [
+        "I am optimus, create by Pythonist Team!",
+        "Optimus! Your Virtual Assitant.."
+      ]
+    },
+    {
+      "tag": "danish",
+      "patterns": [
+        "Who is danish",
+        "What is danish",
+        "What about danish"
+      ],
+      "responses": [
+        "Danish is your friend",
+        "Danish is a language."
+      ]
     }
   ]
 }
